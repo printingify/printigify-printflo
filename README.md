@@ -1,2 +1,2 @@
-# printigify-printflo
+# printingify-printflo
 Printingify printflo release
